@@ -4,7 +4,7 @@ A Spring Boot application that manages customer information and their location p
 
 ## Technology Stack
 
-- Spring Boot (Java)
+- Spring Boot (Java 17)
 - PostgreSQL
 - RESTful API
 - AWS (for deployment)
